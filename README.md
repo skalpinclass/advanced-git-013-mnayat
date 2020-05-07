@@ -1,13 +1,19 @@
-# advanced-git-003
+## Git Grievances
 
-## Links
+- Uses vim as the default editor
+- Is a cmd tool
+- Was written in linux for linux, doesn't play nice with Windows
 
-This section is for some git related links.
 
-[https://learngitbranching.js.org/?NODEMO](https://learngitbranching.js.org/?NODEMO)
-[https://devblogs.microsoft.com/devops/supercharging-the-git-commit-graph/](https://devblogs.microsoft.com/devops/supercharging-the-git-commit-graph/)
+## Merge Tools
 
-## Change your default editor to VSCode
+- Meld
+- WinMerge
+- kdiff3
+- Araxis
+- Deltawalker
+- Visual Studio
+- VS Code
+- vimdiff
+- Beyond Compare
 
-`git config --global core.editor "code --new-window --wait"`
-[https://www.mking.net/blog/using-vscode-as-the-default-git-editor](https://www.mking.net/blog/using-vscode-as-the-default-git-editor)
