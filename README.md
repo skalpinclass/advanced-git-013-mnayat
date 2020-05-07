@@ -1,7 +1,5 @@
 # advanced-git-003
 
-<<<<<<< HEAD
-## Links
 
 This section is for some git related links.
 
